@@ -27,3 +27,11 @@ Aşağıda analiz sürecinde elde edilen bazı temel görselleştirmeleri incele
 ## Teknolojiler ve Kütüphaneler
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+
+## Veri Kaynağı
+
+Bu projede kullanılan veri setleri, İzmir Büyükşehir Belediyesi Açık Veri Portalı üzerinden temin edilmiştir. Çalışmada yer alan analizler ve modellemeler, İzmir İtfaiyesi'nin 2024 ve 2025 yıllarına ait AKS112 Arama Kurtarma vakaları müdahale istatistikleri baz alınarak gerçekleştirilmiştir.
+
+Veri setinin orijinal haline ve detaylarına aşağıdaki bağlantıdan ulaşabilirsiniz:
+[İzmir İtfaiyesi AKS112 Arama Kurtarma Vakaları Müdahale İstatistiği](https://acikveri.bizizmir.com/dataset/izmir-itfaiyesi-aks112-arama-kurtarma-vakalari-mudahale-istatistigi)
