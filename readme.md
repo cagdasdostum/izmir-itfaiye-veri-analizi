@@ -15,7 +15,14 @@ Proje kapsamında yer alan dosyalar şunlardır:
 Aşağıda analiz sürecinde elde edilen bazı temel görselleştirmeleri inceleyebilirsiniz:
 
 ![Isı Haritası](itfaiye_isi_haritasi.png)
-![Kurtarma Türü Analizi](kurtarma_turu_analizi.png)
+![2024 ve 2025 yıllarındaki trafik kazalarına İzmir İtfaiyesi'nin müdahale süresinin karşılaştırılması](trafik-kazasi-mudahale-karsilastirma.png)
+![2024 ve 2025 yıllarındaki trafik kazalarına İzmir İtfaiyesi'nin müdahale süresinin ilçe ilçe karşılaştırılması (Scatter Plot)](trafik-kazalari-mudahale-hiz-degisimi.png)
+
+### Görsel Çıktılar ve Değerlendirmeler
+
+- Vaka Yoğunluk Analizi: İzmir genelindeki itfaiye müdahalelerinin bölgesel dağılımını ve iş yükü yoğunluğunu göstermektedir. Bu harita, en çok vaka yaşanan ilçeleri belirlemek ve kaynak planlamasına ışık tutmak amacıyla oluşturulmuştur.
+
+- Müdahale Türlerine Göre Dağılım: İtfaiye ekiplerinin 2024-2025 yılları arasında müdahale ettiği olayların (trafik kazası, hayvan kurtarma, kapı açma vb.) oransal dağılımını yansıtmaktadır. Ekiplerin en çok hangi vaka tiplerine efor sarf ettiğini net bir şekilde ortaya koyar.
 
 ## Teknolojiler ve Kütüphaneler
 
